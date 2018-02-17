@@ -1,6 +1,6 @@
 import socket
 
-confiaveis = ['www.google.com','www.yahoo.com']
+confiaveis = ['www.google.com','www.yahoo.com','www.bb.com.br']
 
 def check_host(confiaveis):
 	for host in confiaveis:
