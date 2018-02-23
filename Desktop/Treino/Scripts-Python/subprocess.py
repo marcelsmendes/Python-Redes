@@ -12,7 +12,7 @@ def main():
 		texto = input_file.read()
 		print(texto)
 		input_file.close()
-
+		#teste
 
 
 main()
